@@ -1,0 +1,1 @@
+# digicamcontrol-to-whatsapp-photobooth
